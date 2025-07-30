@@ -1,5 +1,7 @@
 # Glacial Cycle Resilience
 
+[![DOI](https://zenodo.org/badge/1028946212.svg)](https://doi.org/10.5281/zenodo.16603222)
+
 This repository contains the code for the paper:
 
 **Quantifying Resilience in Non-Autonomous and Stochastic Earth System Dynamics with Application to Glacial-Interglacial Cycles**  
